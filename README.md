@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an application that generate custom and complex forms**
 
-- 🌱 I’m currently learning **Treejs**
+- 🌱 I’m currently learning **Threejs**
 
 - 💬 Ask me about **React, Vue, Symfony**
 
