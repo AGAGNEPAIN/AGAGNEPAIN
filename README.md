@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **an application that generate custom and complex forms**
 
-- 🌱 I’m currently learning **Threejs**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **React, Vue, Symfony**
+- 💬 Ask me about **Next.js, Next, Vue, Symfony**
 
 - 📫 How to reach me **gagnepainantoine@yahoo.com**
 
