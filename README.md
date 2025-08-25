@@ -35,15 +35,3 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-<h3 align="left">My GitHub Stats:</h3>
-
-<a href="http://www.github.com/AGAGNEPAIN"><img src="https://github-readme-stats.vercel.app/api?username=AGAGNEPAIN&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AGAGNEPAIN's GitHub stats" /></a>
-
-<a href="http://www.github.com/AGAGNEPAIN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AGAGNEPAIN&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/AGAGNEPAIN"><img src="https://activity-graph.herokuapp.com/graph?username=AGAGNEPAIN&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<br/>  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1120868492&cover_image=true&theme=default&bar_color=492dae" /></div>  
-<br/>  
